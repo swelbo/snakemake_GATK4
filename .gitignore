@@ -1,0 +1,14 @@
+
+.snakemake/
+
+.DS_Store
+
+tmp/
+
+bams/
+
+merged/
+
+ref/
+
+vcfs/
